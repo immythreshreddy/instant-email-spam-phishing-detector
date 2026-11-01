@@ -1,0 +1,6 @@
+{
+  "name": "SpamGuard NLP - Email Spam & Phishing Detector",
+  "description": "Real-time AI email spam detector and interactive NLP laboratory featuring TF-IDF vectorization, Porter stemming, multi-model ML benchmarks, and deep threat forensics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
